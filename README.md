@@ -61,6 +61,7 @@ npm run dev
 Endpoints Disponíveis
 
 | Método | Rota | Descrição |
+| :--- | :--- | :--- |
 | POST | /api/clinicas | Cria uma nova clínica. |
 | GET | /api/clinicas | Lista todas as clínicas. |
 | GET | /api/clinicas/:id | Busca uma clínica específica pelo ID. |
