@@ -4,6 +4,18 @@
 
 ---
 
+## 🎯 Motivação (Portfólio)
+
+Este projeto foi desenvolvido com o objetivo principal de **treinamento e aprofundamento** em desenvolvimento Backend com Node.js. Serve como meu campo de prática para consolidar o conhecimento em:
+
+* **Arquitetura RESTful** com Express.
+* **Modelagem de Dados** e **persitência** com Mongoose e MongoDB.
+* **Organização de código** em controllers, models e routers.
+
+Embora funcional, ele foi criado com foco em aprendizado contínuo, e está sendo usado como **peça central do meu portfólio**.
+
+---
+
 ## ✨ Tecnologias & Ferramentas Essenciais
 
 O projeto foi construído utilizando o seguinte stack:
@@ -70,4 +82,5 @@ Endpoints Disponíveis
 | PUT | /api/clinicas/:id | Atualiza os dados de uma clínica. |
 | DELETE | /api/clinicas/:id | Deleta uma clínica. |
 
-
+**Autor**
+*Miguel S Cruz*
