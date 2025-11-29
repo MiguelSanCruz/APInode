@@ -30,7 +30,7 @@ O projeto foi construído utilizando o seguinte stack:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://docs.github.com/pt/repositories/creating-and-managing-repositories/quickstart-for-repositories](https://docs.github.com/pt/repositories/creating-and-managing-repositories/quickstart-for-repositories)
+    git clone https://github.com/MiguelSanCruz/APInode.git
     ```
 
 2.  **Acesse o diretório:**
