@@ -60,7 +60,6 @@ O projeto foi construído utilizando o seguinte stack:
     * Adicione sua string de conexão e a porta (o pacote `dotenv` cuidará de carregá-las):
         ```env
         MONGO_URI="[SUA STRING DE CONEXÃO DO MONGODB AQUI]"
-        PORT=3000 
         ```
 
 ### 🏃 Executando a API
